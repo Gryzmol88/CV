@@ -68,6 +68,17 @@ body {
   line-height: 24px;
 }
 
+.rodo {
+  font-size: 9px;
+
+}
+
+.rodo-signature {
+    font-family: "Lucida Handwriting";
+    font-size: 12px;
+    text-align: right;
+}
+
 .projects-link:hover {
   color: #ff6b08;
 }
@@ -228,4 +239,9 @@ a {
 
 .photo:hover {
   animation: pulse 1s;
+}
+
+p {
+text-align: justify;
+font-family: Montserrat;
 }
