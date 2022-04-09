@@ -41,8 +41,7 @@
       margin-bottom: 20px;
     }
 
-    .bio-title,
-    .bio-occupation {
+    .bio-title {
       color: #2a2a2a;
     }
 
@@ -111,7 +110,8 @@
       line-height: 1.714;
     }
 
-    .accent {
+    .accent,
+    .bio-occupation {
       color: #ff6b08;
     }
 
